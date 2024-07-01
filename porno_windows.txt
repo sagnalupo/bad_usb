@@ -1,0 +1,8 @@
+WINDOWS r
+DELAY 1000
+STRING powershell
+ENTER
+DELAY 1000
+STRING Start-Process chrome.exe https://es.pornhub.com/view_video.php?viewkey=66565b711de40
+DELAY 200
+ENTER
